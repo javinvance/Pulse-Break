@@ -1,0 +1,12 @@
+{
+  "prompts": [
+    { "id": "p1", "text": "Was this stressor within your control?", "category": "control" },
+    { "id": "p2", "text": "Did someone else's actions cause your stress today?", "category": "others" },
+    { "id": "p3", "text": "Is there something concrete you can do to change this situation?", "category": "action" },
+    { "id": "p4", "text": "Are you carrying stress that belongs to someone else?", "category": "others" },
+    { "id": "p5", "text": "Can you take one action right now to improve this situation?", "category": "action" },
+    { "id": "p6", "text": "Is this something that will matter in a week?", "category": "perspective" },
+    { "id": "p7", "text": "Are you reacting to facts, or to assumptions?", "category": "perspective" },
+    { "id": "p8", "text": "Can you control the outcome, or only your response to it?", "category": "control" }
+  ]
+}
